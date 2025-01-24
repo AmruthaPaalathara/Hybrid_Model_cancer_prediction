@@ -3,9 +3,9 @@
 This project focuses on detecting cancer by training a Decision Tree (DT) model, a Reinforcement Learning (RL) model, and a hybrid model that combines the two. It evaluates the performance of these approaches to determine their effectiveness in predicting cancer, concluding that DT is the most reliable method.
 ## Repository Structure
 * cancerAllv3.csv: The dataset used for training and testing the models.
-* cac3/: Python scripts for training the Decision Tree, creating the RL environment, building and training the RL model, and implementing the hybrid model.
-* Reinforcement_Learning_CAC3: Detailed project documentation, including methodology, evaluation metrics, and insights.
-* cac3.html: A simple web page summarizing the project's results.
+* cac3.ipynb: Python scripts for training the Decision Tree, creating the RL environment, building and training the RL model, and implementing the hybrid model.
+* Reinforcement_Learning_CAC3.pdf: Detailed project documentation, including methodology, evaluation metrics, and insights.
+* cac3.pdf: A simple web page summarizing the project's results.
 * Methodolgt_RL_CAC3.drawio: Includes visual representations of methodology (Fig. 1)
 
 ## Methodology
